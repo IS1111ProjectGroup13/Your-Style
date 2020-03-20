@@ -1,0 +1,14 @@
+C:\Users\caoim\OneDrive\Documents\First Year S2\IS1111\Your Style Group Project\Your Style Shoes\Your Style Shoes\bin\Debug\Your Style Shoes.exe.config
+C:\Users\caoim\OneDrive\Documents\First Year S2\IS1111\Your Style Group Project\Your Style Shoes\Your Style Shoes\bin\Debug\Your Style Shoes.exe
+C:\Users\caoim\OneDrive\Documents\First Year S2\IS1111\Your Style Group Project\Your Style Shoes\Your Style Shoes\bin\Debug\Your Style Shoes.pdb
+C:\Users\caoim\OneDrive\Documents\First Year S2\IS1111\Your Style Group Project\Your Style Shoes\Your Style Shoes\bin\Debug\Your Style Shoes.xml
+C:\Users\caoim\OneDrive\Documents\First Year S2\IS1111\Your Style Group Project\Your Style Shoes\Your Style Shoes\obj\Debug\Your Style Shoes.vbprojAssemblyReference.cache
+C:\Users\caoim\OneDrive\Documents\First Year S2\IS1111\Your Style Group Project\Your Style Shoes\Your Style Shoes\obj\Debug\Your_Style_Shoes.frmCustomerLogin.resources
+C:\Users\caoim\OneDrive\Documents\First Year S2\IS1111\Your Style Group Project\Your Style Shoes\Your Style Shoes\obj\Debug\Your_Style_Shoes.frmEmployeeLogin.resources
+C:\Users\caoim\OneDrive\Documents\First Year S2\IS1111\Your Style Group Project\Your Style Shoes\Your Style Shoes\obj\Debug\Your_Style_Shoes.frmLogin.resources
+C:\Users\caoim\OneDrive\Documents\First Year S2\IS1111\Your Style Group Project\Your Style Shoes\Your Style Shoes\obj\Debug\Your_Style_Shoes.Resources.resources
+C:\Users\caoim\OneDrive\Documents\First Year S2\IS1111\Your Style Group Project\Your Style Shoes\Your Style Shoes\obj\Debug\Your Style Shoes.vbproj.GenerateResource.cache
+C:\Users\caoim\OneDrive\Documents\First Year S2\IS1111\Your Style Group Project\Your Style Shoes\Your Style Shoes\obj\Debug\Your Style Shoes.vbproj.CoreCompileInputs.cache
+C:\Users\caoim\OneDrive\Documents\First Year S2\IS1111\Your Style Group Project\Your Style Shoes\Your Style Shoes\obj\Debug\Your Style Shoes.exe
+C:\Users\caoim\OneDrive\Documents\First Year S2\IS1111\Your Style Group Project\Your Style Shoes\Your Style Shoes\obj\Debug\Your Style Shoes.xml
+C:\Users\caoim\OneDrive\Documents\First Year S2\IS1111\Your Style Group Project\Your Style Shoes\Your Style Shoes\obj\Debug\Your Style Shoes.pdb
